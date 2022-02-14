@@ -1,0 +1,16 @@
+<HTML>
+<head>
+<tilte>Getsuki</title>
+<style>
+body{
+background-color: grey; 
+}
+h3{
+color : red; 
+}
+</style>
+</head>
+<body>
+<h3>Getsuki</h3>
+</body>
+</html>
